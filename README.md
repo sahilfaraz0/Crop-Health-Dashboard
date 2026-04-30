@@ -31,6 +31,7 @@ Overhauled the visual layout to improve user navigation and interactivity, makin
 
 ## 🗂️ Folder Structure
 *   `Dashboard/`: Contains all the `.pbix` Power BI files.
+*   `Datasets/`: Contains the dataset used to make the Power BI dashboard.
 *   `Images/`: Includes screenshots of the dashboard's features and its evolution through the three development phases.
 
 ## 💻 Tech Stack
